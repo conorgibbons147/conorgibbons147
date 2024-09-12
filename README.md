@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am a student at the University of Virginia majoring in Data Science.
 <!--
 **conorgibbons147/conorgibbons147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
